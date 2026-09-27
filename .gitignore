@@ -23,6 +23,8 @@ Thumbs.db
 # Keep the course data directory visible without committing local datasets.
 homeworks/01-intro/data/*.csv
 homeworks/02-regression/data/*.csv
+homeworks/03-classification/data/*.csv
+homeworks/04-evaluation/data/*.csv
 
 .vscode/
 .idea/
